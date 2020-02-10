@@ -25,7 +25,8 @@ SECRET_KEY = 'ilgj#kl870vpvpp1y4h8_z0=859oe2z^7h#erpw73z=bb_k6uk'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com',
+                 'gonbee.pythonanywhere.com']
 
 
 # Application definition
